@@ -6,7 +6,7 @@
 # lets the user add their own text anywhere the word ADJECTIVE, 
 # NOUN, ADVERB, or VERB appears in the text file.
 
-import re
+# import re  # did without regex first
 
 def madlibs():
 
