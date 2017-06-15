@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\Reheater\Documents\Python\AutomateBoringStuff\mcb.pyw %*
